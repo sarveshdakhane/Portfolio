@@ -2328,10 +2328,30 @@ input, select, textarea {
 			width: 100%;
 		}
 
+		.image.featuredD {
+			display: block;
+			margin: 0 0 3em 0;
+			width: 90%;
+		}
 			.image.featured img {
-				width: 100%;
+				width: 100%;				
+			}
+
+			.image.featuredD img {
+				margin-left: 8em;
+				width: 80%;
+				height: 60%;
+				
 			}
 			.image.featured video {
+				align-items: center;
+				justify-content: center;
+				width: 80%;
+				height: 50%;
+				margin-left: 8em;
+
+			}
+			.image.featuredD video {
 				align-items: center;
 				justify-content: center;
 				width: 80%;
@@ -2346,15 +2366,21 @@ input, select, textarea {
 					margin: 0 0 1.5em 0;
 				}
 
+				.image.featuredD {
+					margin: 0 0 1.5em 0;
+				}
+
 			}
 
 		.image.main {
+			
 			display: block;
 			margin: 0 0 3em 0;
 			width: 100%;
 		}
 
 			.image.main img {
+				
 				width: 100%;
 			}
 			.image.featured video {
@@ -2597,6 +2623,7 @@ input, select, textarea {
 		}
 
 			ul.posts article .image {
+				
 				display: block;
 				margin-right: 1.5em;
 				min-width: 4em;
