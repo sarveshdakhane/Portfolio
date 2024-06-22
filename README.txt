@@ -14,4 +14,3 @@ Welcome to my portfolio repository! This repository contains the source code and
 - **View the live site**: Visit [my portfolio](https://sarveshdakhane.github.io/Portfolio/).
 - **Navigate through the pages**: Use the navigation bar to explore different sections of the portfolio.
 - **Contact me**: Use the contact section on the website to send me a message.
-
